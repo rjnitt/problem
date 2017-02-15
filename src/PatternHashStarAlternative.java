@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-public class RequestBinTutorial {
+public class PatternHashStarAlternative {
 
 	// public <T> void swapp(<T> a,<T> b){
 	// <T> temp = a;
